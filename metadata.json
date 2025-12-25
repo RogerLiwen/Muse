@@ -1,0 +1,8 @@
+{
+  "name": "MUSE - 临床试验患者招募系统",
+  "description": "基于生成式AI的临床试验招募系统，利用战略助手、内容生产助手和验证助手简化患者招募流程。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
